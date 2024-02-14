@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.1
+selenium==4.1.0
+torch==2.2.0
+transformers==4.16.2
+argparse
+more-itertools
+futures
+webdriver_manager
